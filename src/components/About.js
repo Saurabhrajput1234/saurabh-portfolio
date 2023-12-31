@@ -16,6 +16,8 @@ const About = () => {
             <Link to="/contact">Contact Me</Link>
             </button>
             </div>
+            // "predeploy":"npm run build",
+// "deploy":"gh-pages -d build",
             
 
         </div>
