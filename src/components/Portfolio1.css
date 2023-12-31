@@ -430,5 +430,11 @@ li{
     height:68px;
   
   }
+  .about-card h3{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 300;
+    line-height: 1;
+  }
 }
 
