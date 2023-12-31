@@ -13,7 +13,7 @@ const Routers = () => {
   return (
     <div>
         <Routes>
-        <Route path='' element={<Portfolio1/>} />
+        <Route path='/' element={<Portfolio1/>} />
       <Route path='/skills' element={<Skills/>} />
         
         <Route path='/about' element={<About/>} />
