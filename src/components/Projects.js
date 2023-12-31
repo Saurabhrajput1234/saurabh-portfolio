@@ -54,7 +54,7 @@ const Projects = () => {
               </li>
               <li className='cards'>
               <div className="card-img">
-              <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><img src={project3} alt="" /></a>
+              {/* <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><img src={project3} alt="" /></a> */}
               </div>
                 <div className="about-card">
                 <h3>Task management system</h3>
