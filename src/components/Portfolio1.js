@@ -5,7 +5,7 @@ import profile from "./pics/saurabh.svg";
 import resume from "./pics/saurabhResume.pdf";
 import project1 from './pics/project1.png';
 import project2 from './pics/project2.png';
-import project3 from './pics/project3.png';
+// import project3 from './pics/project3.png';
 import dsa from "./pics/dsa.png";
 import cpp from "./pics/cpp.png"
 import html from "./pics/html.png"
@@ -112,7 +112,7 @@ const Portfolio1 = () => {
               <li className='cards'>
 
                 <div className="card-img">
-                <a href='https://E-sa.netlify.app'><img src={project1} alt="" /></a>
+                <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><img src={project1} alt="" /></a>
                   
                 </div>
                 <div className="about-card">
@@ -136,13 +136,13 @@ const Portfolio1 = () => {
               </li>
               <li className='cards'>
               <div className="card-img">
-              <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><img src={project3} alt="" /></a>
+              {/* <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><img src={project3} alt="" /></a> */}
               </div>
                 <div className="about-card">
                 <h3>Task management system</h3>
                 <p>basically this is a social awareness towords society so that they can skip that type of any problem</p>
-                <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><button>View</button></a>
-                  <span><button>Source</button></span>
+                {/* <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><button>View</button></a> */}
+                  {/* <span><button>Source</button></span> */}
                 </div>
               </li>
               <li className={` ${showAllCards ? 'cards' : 'cards hidden'}`}>
@@ -176,7 +176,7 @@ const Portfolio1 = () => {
       <section>
         <div className="about-campus">
             <div className="contact-form">
-               <div className="con-heading"  style = {{alignContent:"center"}}> <h1 style={{paddingLeft:"61px"}}>Contact.</h1>
+               <div className="con-heading"  style = {{alignContent:"center"}}> <h1 style={{paddingLeft:"45px"}}>Contact.</h1>
                 <h1 style={{"margin-bottom": "6px","color": '#0093ff',fontSize:'25px',paddingLeft:"29px"}}>Lets have a chat</h1></div>
                 <form action="https://formsubmit.co/a25a522f123e55fc95bfd626b5ea7b92" method="POST">
 

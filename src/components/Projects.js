@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import './Portfolio1.css';
 import project1 from './pics/project1.png';
 import project2 from './pics/project2.png';
-import project3 from './pics/project3.png';
+// import project3 from './pics/project3.png';
 
 const Projects = () => {
 
