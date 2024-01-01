@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/saurabh-portfolio/static/css/main.0508afc2.css",
-    "main.js": "/saurabh-portfolio/static/js/main.2257cfdc.js",
-    "static/js/787.3503cf78.chunk.js": "/saurabh-portfolio/static/js/787.3503cf78.chunk.js",
-    "static/media/project1.png": "/saurabh-portfolio/static/media/project1.3cac7070757ba99c1bda.png",
-    "static/media/project2.png": "/saurabh-portfolio/static/media/project2.b7779b6a7af21d750cb6.png",
-    "static/media/saurabh.svg": "/saurabh-portfolio/static/media/saurabh.dc28fc641ba4aa71535ddc456b9ba211.svg",
-    "static/media/project3.png": "/saurabh-portfolio/static/media/project3.98f55c15821aef2e578d.png",
-    "static/media/saurabhResume.pdf": "/saurabh-portfolio/static/media/saurabhResume.80734c6a43cc4efb0d9f.pdf",
-    "static/media/react.png": "/saurabh-portfolio/static/media/react.86c8d9eba03e29814d2a.png",
-    "static/media/cpp.png": "/saurabh-portfolio/static/media/cpp.24a8f93854ab092f17a7.png",
-    "static/media/html.png": "/saurabh-portfolio/static/media/html.6e930594286d8afe4c79.png",
-    "static/media/css.png": "/saurabh-portfolio/static/media/css.463e319bad8e0edf1ef7.png",
-    "static/media/js.png": "/saurabh-portfolio/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/saurabh-portfolio/index.html",
-    "main.0508afc2.css.map": "/saurabh-portfolio/static/css/main.0508afc2.css.map",
-    "main.2257cfdc.js.map": "/saurabh-portfolio/static/js/main.2257cfdc.js.map",
-    "787.3503cf78.chunk.js.map": "/saurabh-portfolio/static/js/787.3503cf78.chunk.js.map"
+    "main.css": "/static/css/main.f6da9a2c.css",
+    "main.js": "/static/js/main.34527f8b.js",
+    "static/js/787.3503cf78.chunk.js": "/static/js/787.3503cf78.chunk.js",
+    "static/media/project1.png": "/static/media/project1.3cac7070757ba99c1bda.png",
+    "static/media/project2.png": "/static/media/project2.b7779b6a7af21d750cb6.png",
+    "static/media/saurabh.svg": "/static/media/saurabh.dc28fc641ba4aa71535ddc456b9ba211.svg",
+    "static/media/saurabhResume.pdf": "/static/media/saurabhResume.80734c6a43cc4efb0d9f.pdf",
+    "static/media/react.png": "/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/cpp.png": "/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/html.png": "/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.f6da9a2c.css.map": "/static/css/main.f6da9a2c.css.map",
+    "main.34527f8b.js.map": "/static/js/main.34527f8b.js.map",
+    "787.3503cf78.chunk.js.map": "/static/js/787.3503cf78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0508afc2.css",
-    "static/js/main.2257cfdc.js"
+    "static/css/main.f6da9a2c.css",
+    "static/js/main.34527f8b.js"
   ]
 }
