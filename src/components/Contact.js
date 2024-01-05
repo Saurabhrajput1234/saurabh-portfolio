@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div >
     <section>
-        <div className="about-campus">
+        <div className="about-contact">
             <div className="contact-form">
                <div className="con-heading"  style = {{alignContent:"center"}}> <h1 style={{paddingLeft:"61px"}}>Contact.</h1>
                 <h1 style={{"margin-bottom": "6px","color": '#0093ff',fontSize:'25px',paddingLeft:"29px"}}>Lets have a chat</h1></div>

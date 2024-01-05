@@ -68,7 +68,7 @@
 }
 
 .about-section{
-  height: 400px;
+  height: 480px;
   width: 100%;
   /* background-color: aliceblue; */
   display: flex;
@@ -90,7 +90,7 @@
   margin:12px
 
 }
-.about-campus{
+.about-contact{
   height: 448px;
   width: 100%;
   background-color: aliceblue;
@@ -353,7 +353,7 @@ li{
   .contact-form input{
     width: 78vw;
   }
-  .about-campus{
+  .about-contact{
     height: 531px;
   }
  
@@ -364,7 +364,7 @@ li{
   .intro-profile,
   .about-section,
   .about-skills,
-  .about-campus,
+  .about-contact,
   .about-projects,
   .card-parent,
   .cards-section,
