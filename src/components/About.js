@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 
 const About = () => {
   return (
-    <div className="background">
+    <div>
     <section>
-        <div className="about-section" style={{height:"66vh"}}>
+        <div className="about-section" >
         <div class="sec2">
                 <h2 style={{"margin-bottom": "10px" , "color": 'white'}} >About me</h2>
                 <h1 style={{"margin-bottom": "14px","color": '#0093ff',fontSize:'25px'}}>I'm a friendly Front-End Developer</h1>

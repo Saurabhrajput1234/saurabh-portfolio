@@ -9,7 +9,7 @@ import css from "./pics/css.png"
 
 const Skills = () => {
   return (
-    <div className="background">
+    <div >
    <section>
         <div className="about-skills">
         <div class="sec3">

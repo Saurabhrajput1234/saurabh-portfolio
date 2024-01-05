@@ -3,7 +3,7 @@ import './Portfolio1.css';
 
 const Contact = () => {
   return (
-    <div className="background">
+    <div >
     <section>
         <div className="about-campus">
             <div className="contact-form">

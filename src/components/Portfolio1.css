@@ -68,7 +68,7 @@
 }
 
 .about-section{
-  height: 500px;
+  height: 400px;
   width: 100%;
   /* background-color: aliceblue; */
   display: flex;
@@ -293,7 +293,7 @@ li{
   margin-top: 41px;
   border-radius: 70px;
   padding:71px;
-  margin-left: 92px;
+  /* margin-left: 92px; */
 }
    #footer{
     height: 161px;
