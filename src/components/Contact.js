@@ -3,7 +3,7 @@ import './Portfolio1.css';
 
 const Contact = () => {
   return (
-    <div >
+    <div>
     <section>
         <div className="about-contact">
             <div className="contact-form">

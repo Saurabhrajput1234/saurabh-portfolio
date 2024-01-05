@@ -21,7 +21,7 @@ const Projects = () => {
   
 
   return (
-    <div className="background">
+    <div >
    <section>
         <div className="about-pojects">
         <div className="card-parent">

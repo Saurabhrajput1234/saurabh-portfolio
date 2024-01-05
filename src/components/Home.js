@@ -5,7 +5,7 @@ import './Portfolio1.css';
 
 const Home = () => {
   return (
-    <>
+    <div >
      <div className='intro-home' >
       <div className="intro-display">
 
@@ -28,7 +28,7 @@ const Home = () => {
           
       </div>
       
-    </>
+    </div>
   )
 }
 

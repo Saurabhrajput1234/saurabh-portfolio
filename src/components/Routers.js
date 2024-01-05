@@ -5,13 +5,14 @@ import Contact from './Contact';
 import Skills from './Skills';
 import About from './About';
 import Projects from './Projects';
+import './Portfolio1.css';
 
 
 
 
 const Routers = () => {
   return (
-    <div>
+    <div className='background'>
         <Routes>
         <Route path='/' element={<Portfolio1/>} />
       <Route path='/skills' element={<Skills/>} />

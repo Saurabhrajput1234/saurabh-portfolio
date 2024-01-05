@@ -14,7 +14,7 @@ const Portfolio1 = () => {
   
     return (<>
    
-    <div className="background">
+   
 
     
      <Home/>
@@ -22,7 +22,7 @@ const Portfolio1 = () => {
       <Skills/>
       <Projects/>
       <Contact/>
-        </div>
+       
         
 
       
