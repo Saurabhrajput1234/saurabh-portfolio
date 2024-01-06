@@ -13,9 +13,6 @@ const Portfolio1 = () => {
   
   
     return (<>
-   
-   
-
     
      <Home/>
       <About/>
@@ -23,12 +20,6 @@ const Portfolio1 = () => {
       <Projects/>
       <Contact/>
        
-        
-
-      
-
-      
-      
       </>
   )
 }
