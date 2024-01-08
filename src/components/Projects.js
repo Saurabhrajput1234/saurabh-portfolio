@@ -38,19 +38,19 @@ const Projects = () => {
                 <p style={{ height:"72px",overflow:"hidden"}}>Basically, this project is all about awareness—specifically, spreading awareness among people regarding mental health and physical violence.</p>
                 </div>
                 <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><button>View</button></a>
-                  <span><button>Source</button></span>
+                  {/* <span><button>Source</button></span> */}
                 
               </li>
               <li className='cards'>
               <div className="card-img">
-              <a href="https://e-sa.netlify.app/"><img src={project2} alt="" /></a>
+              <a href="https://esa-ecommerce-shop.vercel.app/"><img src={project2} alt="" /></a>
                 
               </div>
                 <div className="about-card">
                 <h3>Sopping E-commers web</h3>
                 <p>Basically, our full-stack e-commerce website offers a comprehensive shopping experience. With robust authentication features, you can securely navigate and explore a diverse range of products. Enjoy the convenience of adding items to your cart and seamlessly searching for products that suit your preferences. This platform combines user-friendly design with powerful functionality, ensuring a smooth and personalized shopping journey for every user. Welcome to a dynamic online marketplace where authentication, product management, and search capabilities converge to enhance your e-commerce experience</p>
                 </div>
-                <a href="https://e-sa.netlify.app/"><button>View</button></a>
+                <a href="https://esa-ecommerce-shop.vercel.app/"><button>View</button></a>
                   <span><button>Source</button></span>
                 
               </li>
