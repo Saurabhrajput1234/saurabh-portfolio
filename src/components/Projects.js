@@ -2,7 +2,8 @@ import React,{useState} from 'react';
 import './Portfolio1.css';
 import project1 from './pics/project1.png';
 import project2 from './pics/project2.png';
-// import project3 from './pics/project3.png';
+
+import project3 from './pics/ccc.png';
 
 const Projects = () => {
 
@@ -56,14 +57,15 @@ const Projects = () => {
               </li>
               <li className='cards'>
               <div className="card-img">
-              {/* <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><img src={project3} alt="" /></a> */}
+              <a href="https://ccc-webpage.vercel.app/"><img src={project3} alt="" /></a>
               </div>
                 <div className="about-card">
-                <h3>Task management system</h3>
+                <h3>CCC-Website</h3>
                 <p>basically this is a social awareness towords society so that they can skip that type of any problem</p>
                 </div>
-                <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><button>View</button></a>
-                  {/* <span><button>Source</button></span> */}
+                <a href="https://ccc-webpage.vercel.app/"><button>View</button></a>
+
+                  <span> <a href="https://github.com/Saurabhrajput1234/CCC-webpage"><button>Source</button></a></span>
                 
               </li>
               <li className={` ${showAllCards ? 'cards' : 'cards hidden'}`}>
