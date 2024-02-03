@@ -1,8 +1,8 @@
 import React,{useState} from 'react';
 import './Portfolio1.css';
 import project1 from './pics/project1.png';
-import project2 from './pics/project2.png';
-
+// import project2 from './pics/project2.png';
+import project2 from './pics/project4.png';
 import project3 from './pics/ccc.png';
 
 const Projects = () => {
@@ -44,14 +44,14 @@ const Projects = () => {
               </li>
               <li className='cards'>
               <div className="card-img">
-              <a href="https://esa-ecommerce-shop.vercel.app/"><img src={project2} alt="" /></a>
+              <a href="https://intern-assignment-2.vercel.app/"><img src={project2} alt="" /></a>
                 
               </div>
                 <div className="about-card">
                 <h3>Sopping E-commers web</h3>
                 <p>Basically, our full-stack e-commerce website offers a comprehensive shopping experience. With robust authentication features, you can securely navigate and explore a diverse range of products. Enjoy the convenience of adding items to your cart and seamlessly searching for products that suit your preferences. This platform combines user-friendly design with powerful functionality, ensuring a smooth and personalized shopping journey for every user. Welcome to a dynamic online marketplace where authentication, product management, and search capabilities converge to enhance your e-commerce experience</p>
                 </div>
-                <a href="https://esa-ecommerce-shop.vercel.app/"><button>View</button></a>
+                <a href="https://intern-assignment-2.vercel.app/"><button>View</button></a>
                   <span><button>Source</button></span>
                 
               </li>

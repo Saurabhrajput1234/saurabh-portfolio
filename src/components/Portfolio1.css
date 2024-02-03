@@ -1,5 +1,5 @@
 .background{
-  background-color: black;
+  background-color:  #28292a;;
   padding: 4rem;
  padding-top: 100px;
   
@@ -12,11 +12,11 @@
 .intro-display{
   height: 448px;
   width: 100%;
-  /* background-image: url(./pics/back1.jpg); */
+  /* background-image: url(../components/pics/21.Jpg); */
   background-color: rgb(1, 54, 134);
+  
   background-repeat: no-repeat;
   background-size: 1600px 480px;
-  /* border: 2px solid #7f3168; */
   border-radius: 48px;
 
   ;
@@ -27,9 +27,11 @@
   position: relative;
   top: -371px;
   justify-content: center;
+  
 }
 .intro-content{
   height: 200px;
+  color: #ecf3fe;
   position: relative;
   width: 35vw;
   
@@ -76,9 +78,9 @@
 .about-skills{
   height: 425px;
   width: 100%;
-  background-color: rgb(43, 41, 41);
+  background-color: #1f1f1f;
   display: flex;
-  border-radius: 54px;
+  border-radius: 48px;
 }
 .icons-skills{
   display: flex;
@@ -291,9 +293,9 @@ li{
   background-color: #edf2fa;
   width: 535px;
   margin-top: 41px;
-  border-radius: 70px;
+  border-radius: 24px;
   padding:71px;
-  /* margin-left: 92px; */
+  margin-left: 92px;
 }
    #footer{
     height: 161px;

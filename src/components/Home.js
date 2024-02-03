@@ -13,7 +13,7 @@ const Home = () => {
       <div className='intro-section'>
       <div className="intro-content">
       <h1 style={{color:'#c9ced8'}}>Hello, <span >I'am</span></h1>
-                <h1 style={{color:'white'}}> SAURABH <span >RAJPUT</span></h1>
+                <h1 style={{color:'#ecf3fe'}}> SAURABH <span >RAJPUT</span></h1>
                 <h2 style={{color:'black'}}>Web Developer</h2>
                 <p style={{color:"white"}}>with knowledge in web development and design,I offer the best
                     projects resulting in quality work.</p>
