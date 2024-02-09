@@ -348,7 +348,8 @@ li{
     padding-right: 23px;
   }
   .intro-display {
-    background-size: 100% 480px; /* Adjust background-size as needed */
+    background-size: 100% 480px; 
+    height: 508px;
   }
   .intro-home{
     height: 508px;
