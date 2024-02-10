@@ -51,7 +51,6 @@ const Projects = () => {
                 <p>basically this is a social awareness towords society so that they can skip that type of any problem</p>
                 </div>
                 <a href="https://ccc-webpage.vercel.app/"><button>View</button></a>
-
                 <span> <a href="https://github.com/Saurabhrajput1234/CCC-webpage"><button>Source</button></a></span>
                 
               </li>
