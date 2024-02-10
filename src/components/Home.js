@@ -1,6 +1,6 @@
 import React from 'react';
 import profile from "./pics/saurabh.svg";
-import resume from "./pics/saurabhResume.pdf";
+import resume from "./pics/Saurabh2113076.pdf";
 import './Portfolio1.css';
 
 const Home = () => {

@@ -28,20 +28,7 @@ const Projects = () => {
         <div className="card-parent">
             <h1>Projects</h1>
             <ul className='cards-section'>
-              <li className='cards'>
-
-                <div className="card-img">
-                <a href='https://saurabhrajput1234.github.io/awareness.github.io/'><img src={project1} alt="" /></a>
-                  
-                </div>
-                <div className="about-card">
-                <h3>Awareness system</h3>
-                <p style={{ height:"72px",overflow:"hidden"}}>Basically, this project is all about awareness—specifically, spreading awareness among people regarding mental health and physical violence.</p>
-                </div>
-                <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><button>View</button></a>
-                  {/* <span><button>Source</button></span> */}
-                
-              </li>
+              
               <li className='cards'>
               <div className="card-img">
               <a href="https://intern-assignment-2.vercel.app/"><img src={project2} alt="" /></a>
@@ -49,10 +36,10 @@ const Projects = () => {
               </div>
                 <div className="about-card">
                 <h3>Sopping E-commers web</h3>
-                <p>Basically, our full-stack e-commerce website offers a comprehensive shopping experience. With robust authentication features, you can securely navigate and explore a diverse range of products. Enjoy the convenience of adding items to your cart and seamlessly searching for products that suit your preferences. This platform combines user-friendly design with powerful functionality, ensuring a smooth and personalized shopping journey for every user. Welcome to a dynamic online marketplace where authentication, product management, and search capabilities converge to enhance your e-commerce experience</p>
+                <p>Basically, our full-stack e-commerce website offers a comprehensive shopping experience. With robust authentication features, you can securely navigate and explore a diverse range of products. Enjoy the convenience of adding items to your cart and seamlessly searching for products that suit your preferences. This platform combines user-friendly design with powerful functionality, ensuring a smooth and personalized shopping journey for every user.</p>
                 </div>
                 <a href="https://intern-assignment-2.vercel.app/"><button>View</button></a>
-                  <span><button>Source</button></span>
+                <span><a href="https://github.com/Saurabhrajput1234/Intern-assignment-2"><button>Source</button></a></span>
                 
               </li>
               <li className='cards'>
@@ -65,7 +52,22 @@ const Projects = () => {
                 </div>
                 <a href="https://ccc-webpage.vercel.app/"><button>View</button></a>
 
-                  <span> <a href="https://github.com/Saurabhrajput1234/CCC-webpage"><button>Source</button></a></span>
+                <span> <a href="https://github.com/Saurabhrajput1234/CCC-webpage"><button>Source</button></a></span>
+                
+              </li>
+              <li className='cards'>
+
+                <div className="card-img">
+                <a href='https://saurabhrajput1234.github.io/awareness.github.io/'><img src={project1} alt="" /></a>
+                  
+                </div>
+                <div className="about-card">
+                <h3>Awareness system</h3>
+                <p style={{ height:"72px",overflow:"hidden"}}>Basically, this project is all about awareness—specifically, spreading awareness among people regarding mental health and physical violence.</p>
+                </div>
+                <a href="https://saurabhrajput1234.github.io/awareness.github.io/"><button>View</button></a>
+                <span><a href="https://github.com/Saurabhrajput1234/awareness-system"><button>Source</button></a></span>
+
                 
               </li>
               <li className={` ${showAllCards ? 'cards' : 'cards hidden'}`}>
