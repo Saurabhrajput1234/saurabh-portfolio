@@ -35,7 +35,7 @@ const Projects = () => {
                 
               </div>
                 <div className="about-card">
-                <h3>E-commers web</h3>
+                <h3>E-commerce web</h3>
                 <p>Basically, our full-stack e-commerce website offers a comprehensive shopping experience. With robust authentication features, you can securely navigate and explore a diverse range of products. Enjoy the convenience of adding items to your cart and seamlessly searching for products that suit your preferences. This platform combines user-friendly design with powerful functionality, ensuring a smooth and personalized shopping journey for every user.</p>
                 </div>
                 <a href="https://intern-assignment-2.vercel.app/"><button>View</button></a>
